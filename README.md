@@ -1,2 +1,2 @@
-# SQL
+# Bank_execution_project
 Projects
